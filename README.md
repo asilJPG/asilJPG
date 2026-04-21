@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=8B8BA3&center=true&vCenter=true&width=500&lines=full-stack+developer+from+tashkent;next.js+%C2%B7+vue+%C2%B7+nestjs+%C2%B7+flutter+%C2%B7+python;shipping+products%2C+not+prototypes)](https://github.com/asilJPG)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=8B8BA3&center=true&vCenter=true&width=500&lines=full-stack+developer+from+tashkent;next.js+%C2%B7+vue+%C2%B7+nestjs+%C2%B7+node.js+%C2%B7+flutter;web+%C2%B7+mobile+%C2%B7+bots)](https://github.com/asilJPG)
 
 <br>
 
@@ -16,7 +16,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### what i've shipped
+#### projects
 
 **[TezDavo](https://tez-davo.vercel.app)** — pharmacy marketplace for Tashkent.
 search meds, compare prices, order with courier delivery. admin panel, AI chat, schedule reminders.
@@ -25,18 +25,10 @@ search meds, compare prices, order with courier delivery. admin panel, AI chat, 
 **[TezDavo Mini App](https://tez-davo-miniapp.vercel.app)** — telegram web app version.
 `typescript` `vite` `telegram api`
 
-**FinTrack** — personal finance tracker (web + mobile).
-expense/income in UZS, charts, achievements. iPhone shortcut for quick logging.
-`next.js` `recharts` `flutter` `supabase`
-
-**BeshBolaBuildings** — telegram bot for a construction company.
-dual flows, referral links, admin panel, broadcast.
-`python` `aiogram 3.x` `sqlite` `railway`
-
 </td>
 <td width="50%" valign="top">
 
-#### what i work with
+#### stack
 
 **frontend** — vue, next.js, react, tailwind, vite, html/css
 
