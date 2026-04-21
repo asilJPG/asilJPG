@@ -1,69 +1,91 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Asil&fontSize=60&fontColor=e94560&fontAlignY=35&animation=fadeIn&desc=developer%20·%20builder%20·%20tashkent&descSize=16&descColor=a8a8b3&descAlignY=55" width="100%" />
+<div align="center">
 
 <br>
 
-<p align="center">
-  <samp>I build web & mobile apps that people actually use.<br>Clean code, smooth UI, fast shipping.</samp>
-</p>
+# hey, i'm asil
+
+**full-stack developer from tashkent, uzbekistan**
+
+building apps people actually want to use
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vue" width="40" /><br><sub>Vue</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br><sub>Next.js</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=nestjs" width="40" /><br><sub>NestJS</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=ts" width="40" /><br><sub>TypeScript</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=python" width="40" /><br><sub>Python</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=cpp" width="40" /><br><sub>C / C++</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br><sub>Tailwind</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=supabase" width="40" /><br><sub>Supabase</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=docker" width="40" /><br><sub>Docker</sub>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=vercel" width="40" /><br><sub>Vercel</sub>
-</td>
-</tr>
-</table>
+---
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/ТВОЙ_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=e94560&icon_color=e94560&text_color=a8a8b3&hide_title=true&hide_rank=true" height="150" />
-  </a>
-  <a href="https://github.com/ТВОЙ_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&hide_border=true&background=00000000&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8a8b3&currStreakNum=a8a8b3&dates=a8a8b3&sideNums=a8a8b3" height="150" />
-  </a>
-</p>
+### what i work with
 
 <br>
 
-<p align="center">
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
-  <a href="mailto:ТВОЙ_EMAIL"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://ТВОЙ_САЙТ"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,nextjs,nestjs,ts,js&theme=dark" height="38" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,bash&theme=dark" height="38" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,supabase,docker,vercel,git&theme=dark" height="38" />
+
+<br><br>
+
+---
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
+### what i've built
+
+<br>
+
+<a href="https://github.com/asilJPG/TezDavo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=asilJPG&repo=TezDavo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e" />
+</a>
+&nbsp;
+<a href="https://github.com/asilJPG/TezDavo-miniapp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=asilJPG&repo=TezDavo-miniapp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e" />
+</a>
+
+<br>
+
+> **TezDavo** — pharmacy marketplace for Tashkent. Next.js, Supabase, Vercel.
+> Search meds, order, get delivery.
+
+<br>
+
+---
+
+<br>
+
+### stats
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=asilJPG&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e&hide_title=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilJPG&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=6e7681&currStreakNum=8b949e&dates=6e7681&sideNums=8b949e&stroke=6e768100" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilJPG&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" width="350" />
+
+<br>
+
+---
+
+<br>
+
+### reach me
+
+<br>
+
+<a href="https://t.me/reisuzuia">
+<img src="https://img.shields.io/badge/telegram-reisuzuia-1a1a2e?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/email-your@email.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=asilJPG&color=6e7681&style=flat-square&label=views" />
+
+<br><br>
+
+</div>
