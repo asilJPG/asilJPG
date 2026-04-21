@@ -1,116 +1,79 @@
 <div align="center">
 
+<img src="header.svg" width="100%" />
+
 <br><br>
 
-# asil aminjanov
-
-**full-stack developer** · tashkent, uzbekistan
-
-i ship products — from idea to production
-
-<br>
-
----
-
-<br>
-
-### stack
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,nextjs,nestjs,nodejs,ts,js&theme=dark" height="38" />
-<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,bash,flutter&theme=dark" height="38" />
-<br>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind,supabase,docker,vercel,git,vite&theme=dark" height="38" />
-
-<br>
-
----
-
-<br>
-
-### projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1500&color=8B8BA3&center=true&vCenter=true&width=500&lines=full-stack+developer+from+tashkent;next.js+%C2%B7+vue+%C2%B7+nestjs+%C2%B7+flutter+%C2%B7+python;shipping+products%2C+not+prototypes)](https://github.com/asilJPG)
 
 <br>
 
 </div>
 
-**[TezDavo](https://github.com/asilJPG/TezDavo)** — pharmacy marketplace for Tashkent
-> search meds across pharmacies, compare prices, order with delivery, track in real-time.
-> courier & admin panels, AI chat assistant, schedule reminders.
->
-> `Next.js 14` `TypeScript` `Supabase` `Tailwind` `Vercel` `Google Maps`
+---
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[TezDavo Mini App](https://github.com/asilJPG/TezDavo-miniapp)** — telegram mini-app for TezDavo
-> lightweight mobile-first version built as a Telegram Web App.
->
-> `TypeScript` `Vite` `CSS` `Telegram API` `Vercel`
+#### what i've shipped
 
-<br>
+**[TezDavo](https://tez-davo.vercel.app)** — pharmacy marketplace for Tashkent.
+search meds, compare prices, order with courier delivery. admin panel, AI chat, schedule reminders.
+`next.js` `supabase` `tailwind` `google maps` `vercel`
 
-**FinTrack** — personal finance tracker
-> expense & income tracking in UZS, category breakdowns, charts, period stats, achievements system.
-> iPhone Shortcut integration for quick expense logging via API.
->
-> `Next.js 14` `TypeScript` `Supabase` `Recharts` `Tailwind` `Vercel`
+**[TezDavo Mini App](https://tez-davo-miniapp.vercel.app)** — telegram web app version.
+`typescript` `vite` `telegram api`
 
-<br>
+**FinTrack** — personal finance tracker (web + mobile).
+expense/income in UZS, charts, achievements. iPhone shortcut for quick logging.
+`next.js` `recharts` `flutter` `supabase`
 
-**FinTrack Mobile** — flutter companion app
-> same backend, native feel. dark purple theme, five-tab nav.
->
-> `Flutter` `Dart` `Supabase`
+**BeshBolaBuildings** — telegram bot for a construction company.
+dual flows, referral links, admin panel, broadcast.
+`python` `aiogram 3.x` `sqlite` `railway`
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-**BeshBolaBuildings Bot** — telegram bot for a construction company
-> dual registration flows, referral deep-links, admin panel, media group support,
-> channel notifications, broadcast system. deployed on Railway.
->
-> `Python` `aiogram 3.x` `SQLite` `Railway`
+#### what i work with
+
+**frontend** — vue, next.js, react, tailwind, vite, html/css
+
+**backend** — nestjs, node.js, python, supabase
+
+**mobile** — flutter
+
+**languages** — typescript, javascript, python, c, c++, bash
+
+**tools** — docker, git, vercel, railway
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
 <br>
 
----
-
-<br>
-
-### stats
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=asilJPG&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=6e7681&text_color=8b949e&hide_title=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilJPG&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=6e7681&currStreakNum=8b949e&dates=6e7681&sideNums=8b949e&stroke=6e768100" height="160" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilJPG&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=8" width="350" />
-
-<br>
-
----
-
-<br>
-
-### contact
-
-<br>
-
-<a href="https://t.me/reisuzuia">
-<img src="https://img.shields.io/badge/telegram-reisuzuia-1a1a2e?style=flat-square&logo=telegram&logoColor=white&labelColor=0d1117" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=asilJPG&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=ff6b6b&text_color=8b8ba3&ring_color=c084fc" height="160" />
 &nbsp;&nbsp;
-<a href="https://tez-davo.vercel.app">
-<img src="https://img.shields.io/badge/TezDavo-live-1a1a2e?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asilJPG&hide_border=true&background=0a0a0f&ring=c084fc&fire=ff6b6b&currStreakLabel=c084fc&sideLabels=8b8ba3&currStreakNum=f0f0f0&dates=555570&sideNums=f0f0f0&stroke=1a1a2e" height="160" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=asilJPG&color=6e7681&style=flat-square&label=views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asilJPG&bg_color=0a0a0f&color=8b8ba3&line=c084fc&point=ff6b6b&area=true&area_color=c084fc&hide_border=true" width="95%" />
 
 <br><br>
+
+<a href="https://t.me/reisuzuia"><img src="https://img.shields.io/badge/-reisuzuia-0a0a0f?style=flat&logo=telegram&logoColor=c084fc" height="25" /></a>
+&nbsp;
+<a href="https://github.com/asilJPG"><img src="https://img.shields.io/badge/-asilJPG-0a0a0f?style=flat&logo=github&logoColor=f0f0f0" height="25" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=asilJPG&color=c084fc&style=flat-square&label=profile+views" />
 
 </div>
